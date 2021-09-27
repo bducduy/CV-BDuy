@@ -391,7 +391,7 @@ main img{
 	left: 40%;
 	top: 50%;
 	transform: translate(0, -50%);
-	background: #09071f;
+	background:#09071f;
 	padding: 20px 0;
 	opacity: 0;
 }
