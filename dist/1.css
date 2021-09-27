@@ -391,7 +391,7 @@ main img{
 	left: 40%;
 	top: 50%;
 	transform: translate(0, -50%);
-	background: #09071f;
+	background: black;
 	padding: 20px 0;
 	opacity: 0;
 }
@@ -424,7 +424,7 @@ main img{
 	margin-bottom: 0.5em;
 }
 .one-project h3 a{
-	color: black;
+	color: #09071f;
 }
 .one-project > a{
 	color: #fff;
