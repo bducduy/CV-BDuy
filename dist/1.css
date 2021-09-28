@@ -640,7 +640,7 @@ footer{
 	font-size: 9px;
 }
 .mobile-menu-icon.active-menu p.close{
-	transform: rotateY(0deg);
+	transform: rotateY(360deg);
 	color: #ff7979;
 	background: none;
 }
